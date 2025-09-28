@@ -30,8 +30,8 @@ A Streamlit UI ties it all together with an interactive dashboard and report vie
 Clone the repo and set up a Python environment:
 
 ```
-git clone https://github.com/yourusername/cve-hunter.git
-cd cve-hunter
+git clone https://github.com/omega3663/CVE_Hunter
+cd CVE_Hunter
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
