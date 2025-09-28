@@ -34,7 +34,7 @@ git clone https://github.com/omega3663/CVE_Hunter
 cd CVE_Hunter
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 You’ll also need:
