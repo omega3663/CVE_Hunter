@@ -1,8 +1,8 @@
 # 🔍 CVE Hunter
 
-**CVE Hunter** is an AI-powered research framework for discovering low-hanging vulnerabilities in open-source software.  
+**CVE Hunter** is an AI-powered research framework for discovering vulnerabilities in open-source software.  
 
-It scrapes candidate projects (from GitHub or WordPress plugins), stores metadata in SQLite, and then runs Semgrep + LLM assisted analysis to flag likely vulnerabilities.  
+It scrapes candidate projects (from GitHub or WordPress plugins), stores metadata in SQLite, and then runs Semgrep and AI analysis to flag likely vulnerabilities.  
 
 A Streamlit UI ties it all together with an interactive dashboard and report viewer.
 
