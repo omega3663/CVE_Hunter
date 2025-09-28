@@ -1,0 +1,7 @@
+requests
+python-dotenv
+google-generativeai
+langchain-google-genai
+langchain-core
+PyGithub
+streamlit
