@@ -54,7 +54,7 @@ git_api = Github(git_key)
 
 
 # Initialize the generative AI model
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=os.getenv("GEMINI_API"))
+llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", google_api_key=os.getenv("GEMINI_API"))
 prompt_template = ChatPromptTemplate.from_template("""
 You are an expert at brainstorming GitHub search keywords.
 Based on the user's description of an application, generate a list of 5 relevant keywords.
