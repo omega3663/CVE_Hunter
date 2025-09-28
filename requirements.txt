@@ -5,4 +5,3 @@ langchain-google-genai
 langchain-core
 PyGithub
 streamlit
-github
