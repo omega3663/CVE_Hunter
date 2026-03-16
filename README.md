@@ -1,3 +1,4 @@
+![CVEHunter Header](CVEHunter.png)
 # 🔍 CVE Hunter
 
 **CVE Hunter** is an AI-powered research framework for discovering vulnerabilities in open-source software.  
